@@ -1,0 +1,6 @@
+images
+blobs
+*.tmp
+*.tar
+*.gz
+.pydevproject
